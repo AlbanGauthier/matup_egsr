@@ -1,0 +1,6 @@
+[submodule "sr_modules/SwinIR"]
+	path = sr_modules/SwinIR
+	url = https://github.com/JingyunLiang/SwinIR.git
+[submodule "sr_modules/SRFlow"]
+	path = sr_modules/SRFlow
+	url = https://github.com/andreas128/SRFlow.git

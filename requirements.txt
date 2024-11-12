@@ -1,0 +1,16 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+einops
+matplotlib
+numpy
+opencv-python
+setuptools
+tensorboard
+torch==2.0.0
+torchvision==0.15.1
+tqdm
+natsort
+PyYAML
+scikit-image
+lpips
+pandas
+timm
